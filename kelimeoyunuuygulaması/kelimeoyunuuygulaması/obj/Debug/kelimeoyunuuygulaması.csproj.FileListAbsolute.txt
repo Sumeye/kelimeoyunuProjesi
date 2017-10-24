@@ -1,0 +1,36 @@
+c:\users\sumeyye\documents\visual studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\bin\Debug\kelimeoyunuuygulaması.exe.config
+c:\users\sumeyye\documents\visual studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form1.resources
+c:\users\sumeyye\documents\visual studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Properties.Resources.resources
+c:\users\sumeyye\documents\visual studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.csproj.GenerateResource.Cache
+c:\users\sumeyye\documents\visual studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\bin\Debug\kelimeoyunuuygulaması.exe
+c:\users\sumeyye\documents\visual studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\bin\Debug\kelimeoyunuuygulaması.pdb
+c:\users\sumeyye\documents\visual studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.exe
+c:\users\sumeyye\documents\visual studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.pdb
+c:\users\sumeyye\documents\visual studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Sumeyye\Documents\Visual Studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form2.resources
+C:\Users\Sumeyye\Documents\Visual Studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form3.resources
+C:\Users\Sumeyye\Documents\Visual Studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form4.resources
+C:\Users\Sumeyye\Documents\Visual Studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form5.resources
+C:\Users\Sumeyye\Documents\Visual Studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form6.resources
+C:\Users\Sumeyye\Documents\Visual Studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form7.resources
+C:\Users\Sumeyye\Documents\Visual Studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form8.resources
+C:\Users\Sumeyye\documents\visual studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.admingiris.resources
+C:\Users\Sumeyye\documents\visual studio 2012\Projects\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.adminpanel.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\bin\Debug\kelimeoyunuuygulaması.exe.config
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.exe
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.pdb
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\bin\Debug\kelimeoyunuuygulaması.exe
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\bin\Debug\kelimeoyunuuygulaması.pdb
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.csprojResolveAssemblyReference.cache
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.admingiris.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.adminpanel.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form1.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form2.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form3.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form4.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form5.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form6.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form7.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Form8.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.Properties.Resources.resources
+D:\SüMeyye Dosyalar\2.SINIF BAHAR DÖNEMİ  DERS NOTLARI\C#\KELİME OYUNU\kelimeoyunuuygulaması\kelimeoyunuuygulaması\obj\Debug\kelimeoyunuuygulaması.csproj.GenerateResource.Cache
